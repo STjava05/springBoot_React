@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-UtileApplication<utile>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.student.utile.UtileApplication",
+            "projectName": "utile",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
